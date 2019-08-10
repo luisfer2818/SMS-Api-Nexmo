@@ -1,0 +1,19 @@
+{
+  "name": "nodetextapp",
+  "version": "1.0.0",
+  "description": "Send SMS from Node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "download": "^7.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nexmo": "^2.4.1",
+    "socket.io": "^2.0.4"
+  }
+}

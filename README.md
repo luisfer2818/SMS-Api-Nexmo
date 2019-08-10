@@ -22,6 +22,10 @@ $ npm start
 
 ## App Info
 
+### Site Nexmo
+
+https://www.nexmo.com/
+
 ### Nexmo API Keys
 
 Você precisará adicionar sua própria chave Nexmo api, número secreto e virtual

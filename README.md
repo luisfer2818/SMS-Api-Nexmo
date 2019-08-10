@@ -30,6 +30,14 @@ https://www.nexmo.com/
 
 Você precisará adicionar sua própria chave Nexmo api, número secreto e virtual
 
+### Informações
+
+~~~
+
+Colocar no arquivo app.js as credencias da Api
+
+~~~
+
 ### Version
 
 1.0.0

@@ -1,13 +1,11 @@
 # Node SMS Text App
 
-Node.js app that uses Nexmo to send SMS text messages
+Aplicativo Node.js que usa o Nexmo para enviar mensagens de texto SMS
 
 ### Version
 1.0.0
 
-## Usage
-
-### Installation
+### Instalação
 
 Install the dependencies
 
@@ -25,12 +23,8 @@ $ npm start
 ## App Info
 
 ### Nexmo API Keys
-You will need to add your own Nexmo api key, secret and virtual number
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Você precisará adicionar sua própria chave Nexmo api, número secreto e virtual
 
 ### Version
 
@@ -38,4 +32,4 @@ Brad Traversy
 
 ### License
 
-This project is licensed under the MIT License# SMS-Api-Nexmo
+Este projeto está licenciado sob a licença MIT # SMS-Api-Nexmo

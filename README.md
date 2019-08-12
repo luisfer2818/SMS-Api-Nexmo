@@ -4,20 +4,19 @@ Aplicativo Node.js que usa o Nexmo para enviar mensagens de texto SMS
 
 ### Instalação
 
-Install the dependencies
+Instalar as dependências
 
 ```sh
 $ npm install
 ```
 
 ### Serve
-To serve in the browser
+
+Para rodar no navegador
 
 ```sh
 $ npm start
 ```
-
-## App Info
 
 ### Site Nexmo
 

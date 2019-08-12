@@ -2,9 +2,6 @@
 
 Aplicativo Node.js que usa o Nexmo para enviar mensagens de texto SMS
 
-### Version
-1.0.0
-
 ### Instalação
 
 Install the dependencies
@@ -24,7 +21,11 @@ $ npm start
 
 ### Site Nexmo
 
+~~~
+
 https://www.nexmo.com/
+
+~~~
 
 ### Nexmo API Keys
 
@@ -34,7 +35,9 @@ Você precisará adicionar sua própria chave Nexmo api, número secreto e virtu
 
 ~~~
 
-Colocar no arquivo app.js as credencias da Api
+Colocar no arquivo app.js as credencias da Api.
+
+Digitar um número de telefone com o codigo do país e DDD. Exemplo -> 5561912345678
 
 ~~~
 
